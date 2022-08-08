@@ -2,7 +2,7 @@
 
 ## I'm a Full/MERN Stack Developer!
 
-- 🔭 I’m currently working on [portal.edgecomenergy.ca](portal.edgecomenergy.ca) as the front-end developer
+- 🔭 I’m currently working on [portal.edgecomenergy.ca](https://portal.edgecomenergy.ca/) as the front-end developer
 - 🤝 I’m looking forward to joining in professional development teams
 - 💪 Short term goal: Develop the back-end part of my e-Commerce project
 - 🍷 Fun about me: Part of my family name means "drunk" in English!
