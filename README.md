@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello there, I'm Ali Pooladmast 🖐
 
-<!--
-**AliPooladmast/AliPooladmast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full/MERN Stack Developer!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on portal.edgecomenergy.ca as the front-developer
+- 🤝 I’m looking forward to join in professional development teams
+- 💪 Short term goal: Develop the back-end part of the my e-Commerce project
+- 🍷 Fun about me: My family name in English means drunk!
+- 📫 How to reach me: ali.pooladmast.gh@gmail.com
+- 💬 Ask me about my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ali-pooladmast-5a25918a/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ali-pooladmast-5a25918a/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ali_pooladmast/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ali_pooladmast/#gh-dark-mode-only)
