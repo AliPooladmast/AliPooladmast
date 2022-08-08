@@ -2,10 +2,10 @@
 
 ## I'm a Full/MERN Stack Developer!
 
-- 🔭 I’m currently working on portal.edgecomenergy.ca as the front-developer
-- 🤝 I’m looking forward to join in professional development teams
-- 💪 Short term goal: Develop the back-end part of the my e-Commerce project
-- 🍷 Fun about me: My family name in English means drunk!
+- 🔭 I’m currently working on [portal.edgecomenergy.ca](portal.edgecomenergy.ca) as the front-end developer
+- 🤝 I’m looking forward to joining in professional development teams
+- 💪 Short term goal: Develop the back-end part of my e-Commerce project
+- 🍷 Fun about me: My family name includes drunk in English!
 - 📫 How to reach me: ali.pooladmast.gh@gmail.com
 - 💬 Ask me about my projects
 
