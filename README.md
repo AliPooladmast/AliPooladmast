@@ -6,8 +6,7 @@
 - 🤝 I’m looking forward to joining in professional development teams
 - 💪 Short term goal: Develop the back-end part of my E-Commerce project
 - 🍻 Fun about me: Part of my family name means "drunk" in English!
-- 📧 How to reach me: ali.pooladmast.gh@gmail.com
-- 💬 Ask me about my github projects
+- 💬 Ask me about my github projects on LinkIn
 
 ### Connect with me in:
 
@@ -33,7 +32,6 @@
 
 <br />
 <br />
-
 
 [instagram]: https://www.instagram.com/ali_pooladmast
 [linkedin]: https://www.linkedin.com/in/ali-pooladmast-5a25918a
