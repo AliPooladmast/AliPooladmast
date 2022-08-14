@@ -33,7 +33,7 @@
 <br />
 <br />
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 <p align="center">
     <a href="#title">
         <img src="https://raw.githubusercontent.com/alipooladmast/github-stats-transparent/output/generated/languages.svg" alt="Languages" />
