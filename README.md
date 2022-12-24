@@ -8,14 +8,6 @@
 - 🍻 Fun about me: Part of my family name means "drunk" in English!
 - 💬 Ask me about my github projects on LinkIn
 
-## Connect with me in:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ali-pooladmast-5a25918a/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ali-pooladmast-5a25918a/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/ali_pooladmast/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ali_pooladmast/#gh-dark-mode-only)
-
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
