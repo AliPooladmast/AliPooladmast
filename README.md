@@ -35,6 +35,3 @@
     </a>
 </p>
 
-
-![name](https://github.com/AliPooladmast/AliPooladmast/blob/54d81a4c26947b5c5baedbf8909e9f45966e4708/img/Edgecom-Panel.mp4)
-
