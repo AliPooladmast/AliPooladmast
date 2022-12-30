@@ -35,8 +35,5 @@
     </a>
 </p>
 
-<video width="640" height="480" controls>
-  <source src=[./img/Edgecom-Panel.mp4](https://github.com/AliPooladmast/AliPooladmast/blob/54d81a4c26947b5c5baedbf8909e9f45966e4708/img/Edgecom-Panel.mp4) type="video/mp4">
-</video>
 
 
