@@ -35,3 +35,8 @@
     </a>
 </p>
 
+<video width="320" height="240" controls>
+  <source src="img/Edgecom-Panel.mp4" type="video/mp4">
+</video>
+
+
