@@ -35,6 +35,6 @@
     </a>
 </p>
 
-[![website](img/Edgecom Panel.mp4)]
+[![website](./img/Edgecom Panel.mp4)]
 
 
