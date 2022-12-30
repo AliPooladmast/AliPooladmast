@@ -35,5 +35,6 @@
     </a>
 </p>
 
-[instagram]: https://www.instagram.com/ali_pooladmast
-[linkedin]: https://www.linkedin.com/in/ali-pooladmast-5a25918a
+[![website](img/Edgecom Panel.mp4)]
+
+
