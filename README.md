@@ -35,5 +35,6 @@
     </a>
 </p>
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ali-pooladmast-5a25918a/#gh-light-mode-only)
+https://github.com/AliPooladmast/AliPooladmast/blob/54d81a4c26947b5c5baedbf8909e9f45966e4708/img/Edgecom-Panel.mp4
+
 
