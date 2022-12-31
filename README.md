@@ -35,7 +35,6 @@
     </a>
 </p>
 
-
-https://user-images.githubusercontent.com/90814974/210156202-edc03ca5-5034-4b1f-babe-c0d81f87357d.mp4
-
-
+Edgecom Panel | Shopinity Client | Shopinity Admin
+:-: | :-: | :-:
+<video src='https://user-images.githubusercontent.com/90814974/210156202-edc03ca5-5034-4b1f-babe-c0d81f87357d.mp4'/> | <video src='https://user-images.githubusercontent.com/90814974/210156202-edc03ca5-5034-4b1f-babe-c0d81f87357d.mp4'/> | <video src='https://user-images.githubusercontent.com/90814974/210156202-edc03ca5-5034-4b1f-babe-c0d81f87357d.mp4'/>
