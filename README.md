@@ -36,6 +36,4 @@
 </p>
 
 
-<video width="400" controls>
-  <source src="https://user-images.githubusercontent.com/90814974/210153932-ed7a1d8c-19a9-4bea-b18b-0f5036811546.mp4" type="video/mp4">
-</video>
+<video width="400" src="https://user-images.githubusercontent.com/90814974/210153932-ed7a1d8c-19a9-4bea-b18b-0f5036811546.mp4" controls/>
