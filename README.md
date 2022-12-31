@@ -35,7 +35,7 @@
     </a>
 </p>
 
-<p align="center" style="width:640px;">
-    <video src="https://user-images.githubusercontent.com/90814974/210153932-ed7a1d8c-19a9-4bea-b18b-0f5036811546.mp4"/>
+<p align="center" >
+    <video src="https://user-images.githubusercontent.com/90814974/210153932-ed7a1d8c-19a9-4bea-b18b-0f5036811546.mp4" style="width:640px;"/>
 </p>
 
