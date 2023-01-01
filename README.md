@@ -38,6 +38,8 @@
 |||
 |:-:|:-:|
 **Edgecom Panel** ![edgecom](https://user-images.githubusercontent.com/90814974/210185492-e65e77b8-60cc-4b54-8fc3-4cfff0a1069c.gif) | **Shopinity Client** ![shopinity-client](https://user-images.githubusercontent.com/90814974/210185528-0d0f42ef-874c-431e-a91b-c72aade307a0.gif) |
-**Shopinity Admin** ![shopinity-client](https://user-images.githubusercontent.com/90814974/210185528-0d0f42ef-874c-431e-a91b-c72aade307a0.gif)
+**Shopinity Admin** ![shopinity-admin](https://user-images.githubusercontent.com/90814974/210186331-3b58678f-777c-4536-a7e9-686acbc640e0.gif)
+
+
 
 
