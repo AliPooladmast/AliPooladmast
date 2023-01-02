@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Pooladmast 👋
+# Hi there! 👋
 
 ## I'm a MERN Stack Developer!
 
