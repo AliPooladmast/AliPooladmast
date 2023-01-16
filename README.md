@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi there! 😃🖐
 
-## I'm a Full-stack Developer!
+## I am a full-stack developer with expertise in front-end!
 
 - 💻 I’m have been working on [portal.edgecomenergy.ca](https://portal.edgecomenergy.ca/) as the front-end developer
 - 🤝 I’m looking forward to joining in professional development teams
