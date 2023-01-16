@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## I'm a MERN Stack Developer!
+## I'm a Full-stack Developer!
 
 - 💻 I’m have been working on [portal.edgecomenergy.ca](https://portal.edgecomenergy.ca/) as the front-end developer
 - 🤝 I’m looking forward to joining in professional development teams
