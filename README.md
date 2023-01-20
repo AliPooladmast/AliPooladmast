@@ -4,7 +4,6 @@
 
 - 💻 I’m have been working on [portal.edgecomenergy.ca](https://portal.edgecomenergy.ca/) as the front-end developer
 - 🤝 I’m looking forward to joining in professional development teams
-- 💪 Short term goal: Add features to my E-Commerce project
 - 🍻 Fun about me: Part of my family name means "drunk" in English!
 - 💬 Ask me about my github projects on LinkIn
 
