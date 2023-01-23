@@ -5,7 +5,7 @@
 - 💻 I’m have been working on [portal.edgecomenergy.ca](https://portal.edgecomenergy.ca/) as the front-end developer
 - 🤝 I’m looking forward to joining in professional development teams
 - 🍻 Fun about me: Part of my family name means "drunk" in English!
-- 💬 Ask me about my github projects on LinkIn
+- 💬 Ask me about my github projects on LinkedIn
 
 ## Languages and Tools:
 
