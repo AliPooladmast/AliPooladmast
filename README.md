@@ -4,7 +4,7 @@
 
 - 💻 I’m have been working on [https://www.edgecomenergy.ca/](https://www.edgecomenergy.ca/) portal as the front-end developer
 - 🤝 I’m looking forward to joining in professional development teams
-- 🍻 Fun about me: Part of my family name means "drunk" in English!
+- 🍻 Fun about me: Part of my last name means "drunk" in English!
 - 💬 Ask me about my github projects on my [LinkedIn](https://www.linkedin.com/in/ali-pooladmast/)
 
 ## Languages and Tools:
