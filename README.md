@@ -1,11 +1,10 @@
 # Hi there! 😃🖐
 
 ## I am a Full Stack JavaScript Developer 
-
-- 💻 I’m have been working on [https://www.edgecomenergy.ca/](https://www.edgecomenergy.ca/) portal as the front-end developer
-- 🤝 I’m looking forward to joining in professional development teams
+- 💻 I am now working as a frontend developer for Hörmann Digital.
+- 🤝 I’m looking forward to joining professional development teams
 - 🍻 Fun about me: Part of my last name means "drunk" in English!
-- 💬 Ask me about my github projects on my [LinkedIn](https://www.linkedin.com/in/ali-pooladmast/)
+- 💬 Ask me about my GitHub projects on my [LinkedIn](https://www.linkedin.com/in/ali-pooladmast/)
 
 ## Languages and Tools:
 
