@@ -2,7 +2,6 @@
 
 ## I am a Full Stack JavaScript Developer 
 - 💻 I am now working as a frontend developer for Hörmann Digital.
-- 🤝 I’m looking forward to joining professional development teams
 - 🍻 Fun about me: Part of my last name means "drunk" in English!
 - 💬 Ask me about my GitHub projects on my [LinkedIn](https://www.linkedin.com/in/ali-pooladmast/)
 
