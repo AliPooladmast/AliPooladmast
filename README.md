@@ -1,6 +1,6 @@
 ## Greetings!
 
-### I am a Software Developer 
+### I'm a Software Developer 
 - 💻 Currently working as a software developer at Hörmann Digital, collaborating on projects with professional teams.
 - 🚀 Over 7 years of experience in modern web and backend development.
 - 🛠️ Passionate about solving complex problems, optimizing performance, and crafting intuitive user interfaces.
