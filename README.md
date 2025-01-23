@@ -1,13 +1,12 @@
 ## Greetings!
 
-### I am a Software Developer
-
-	•	💻 Currently working as a frontend developer at Hörmann Digital, collaborating on impactful projects with diverse teams.
-	•	🚀 Over 7 years of experience in modern web and backend development with expertise in React, Angular, TypeScript, Node.js, and Java.
-	•	🛠️ Passionate about solving complex problems, optimizing performance, and crafting intuitive user interfaces.
-	•	🌍 Experienced in working with diverse technology stacks and creating solutions for global audiences.
-	•	🍻 Fun fact: Part of my last name means “drunk” in English!
-	•	💬 Ask me about my GitHub projects or connect with me on LinkedIn.
+### I am a Software Developer 
+- 💻 Currently working as a software developer at Hörmann Digital, collaborating on projects with professional teams.
+- 🚀 Over 7 years of experience in modern web and backend development.
+- 🛠️ Passionate about solving complex problems, optimizing performance, and crafting intuitive user interfaces.
+- 🌍 Experienced in working with diverse technology stacks and creating solutions for global audiences.
+- 🍻 Fun about me: Part of my last name means "drunk" in English!
+- 💬 Ask me about my GitHub projects on my [LinkedIn](https://www.linkedin.com/in/ali-pooladmast/)
 
 ## Languages and Tools:
 
@@ -21,7 +20,14 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" style="padding-right:10px;" />
+<img align="left" alt="Jest" width="26px" src="https://static-00.iconduck.com/assets.00/jest-icon-1855x2048-ifiupldr.png" style="padding-right:10px;" />
+<img align="left" alt="aws" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" style="padding-right:10px;" />
+<img align="left" alt="Next" width="26px" src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" style="padding-right:10px;" />
+
 
 <br />
 <br />
