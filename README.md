@@ -2,7 +2,7 @@
 
 ### Software Developer 
 - 💻 Currently working as a software developer at Hörmann Digital, collaborating on projects with professional teams.
-- 🚀 Over 7 years of experience in modern web and backend development.
+- 🚀 7 years of experience in modern web and backend development.
 - 🛠️ Passionate about solving complex problems, optimizing performance, and crafting intuitive user interfaces.
 - 🌍 Experienced in working with diverse technology stacks and creating solutions for global audiences.
 - 🍻 Fun about me: Part of my last name means "drunk" in English!
