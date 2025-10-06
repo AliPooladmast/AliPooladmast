@@ -1,12 +1,11 @@
 ## Greetings!
 
 ### Software Developer 
-- 💻 Currently working as a software developer at Hörmann Digital, collaborating on projects with professional teams.
-- 🚀 7 years of experience in modern web and backend development.
+- 💻 I’ve recently joined Celonis as an Angular Software Developer on the Process Visualization team, to building advanced visualization tools that power process mining insights.
+- 🚀 6 years of experience in modern web frontend and backend development.
 - 🛠️ Passionate about solving complex problems, optimizing performance, and crafting intuitive user interfaces.
 - 🌍 Experienced in working with diverse technology stacks and creating solutions for global audiences.
-- 🍻 Fun about me: Part of my last name means "drunk" in English!
-- 💬 Ask me about my GitHub projects on my [LinkedIn](https://www.linkedin.com/in/ali-pooladmast/)
+- 🍻 Fun about me: Part of my last name means "drunk" in Persian!
 
 ### Languages and Tools:
 
