@@ -1,9 +1,9 @@
 ## Greetings!
 
 ### Software Developer 
-- 💻 I'm working at Celonis as an Angular Software Engineer on the Process Visualization team, to building advanced visualization tools that power process mining insights.
-- 🚀 8 years of experience in modern web frontend and backend development.
-- 🛠️ Passionate about solving complex problems, optimizing performance, and crafting intuitive user interfaces.
+- 💻 I'm working at Celonis as a Software Engineer on the Process Visualization team, to building advanced visualization tools that power process mining insights.
+- 🚀 8 years of experience in modern web Frontend and Backend technologies.
+- 🛠️ Passionate about solving complex problems, optimizing performance, and crafting intuitive user interfaces/journeys.
 - 🌍 Experienced in working with diverse technology stacks and creating solutions for global audiences.
 - 🍻 Fun about me: Part of my last name means "drunk" in Persian!
 
