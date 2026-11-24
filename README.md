@@ -30,16 +30,6 @@
 <br />
 <br />
 
-### GitHub Statistics:
-<p align="center">
-    <a href="#title">
-        <img src="https://raw.githubusercontent.com/alipooladmast/github-stats-transparent/output/generated/languages.svg" alt="Languages" />
-    </a>
-    <a href="#title">
-        <img src="https://raw.githubusercontent.com/alipooladmast/github-stats-transparent/output/generated/overview.svg" alt="Overview" />
-    </a>
-</p>
-
 ### Highlighted Projects:
 |||
 |:-:|:-:|
