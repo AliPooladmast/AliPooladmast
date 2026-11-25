@@ -1,5 +1,3 @@
-## Greetings!
-
 ### Software Engineer 
 - 💻 I'm working at Celonis as a Software Engineer on the Process Visualization team, to building advanced visualization tools that power process mining insights.
 - 🚀 8 years of experience in modern web Frontend and Backend technologies.
